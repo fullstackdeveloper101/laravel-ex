@@ -39,6 +39,17 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5 - VIN APP PROJECT</div>
+
+                <div class="title">Laravel 5 - VIN APP PROJECT</div>
+
+
+                <div class="title">Laravel 5 - VIN APP PROJECT</div>
+
+
+                <div class="title">Laravel 5 - VIN APP PROJECT</div>
+
+                <div class="title">Laravel 5 - VIN APP PROJECT</div>
+
             </div>
         </div>
     </body>
