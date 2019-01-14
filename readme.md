@@ -10,8 +10,11 @@ This quickstart was created to make it easy to get started with Laravel 5.2 on O
 IN ADDITION TO QUICK START,  included the following features such as :
 ===================================
 1. lOGIN 
+===================================
 2.REGISTARTION 
+===================================
 3. AUTHENTICATION 
+===================================
 4. VIEW/CREATE/UPDATE/EDIT CRUD MODULE
 ===================================
 THESE ARE INCLUDED FOR LEARNING PURPOSE. I have Followed the tutorial from  https://appdividend.com/2017/10/15/laravel-5-5-crud-example-tutorial/
