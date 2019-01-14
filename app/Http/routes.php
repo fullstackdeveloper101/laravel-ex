@@ -23,3 +23,10 @@ Route::get('foo', function () {
 Route::auth();
 
 Route::get('/home', 'HomeController@index');
+Route::get('/create/ticket','TicketController@create');
+Route::post('/create/ticket','TicketController@store');
+Route::get('/tickets', 'TicketController@index');
+Route::patch('/edit/ticket/{id}','TicketController@update');
+Route::get('/edit/ticket/{id}','TicketController@edit');
+
+Route::delete('/delete/ticket/{id}','TicketController@destroy');
